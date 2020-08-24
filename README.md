@@ -16,7 +16,7 @@ https://www.t00ls.net/viewthread.php?tid=57096
 4. 修改支持双击点击直接打开url地址。
 5. ilmerge合并exe和dll。
 
-![image-20200824134139052](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20200824134139052.png)
+![image-20200824134139052](https://github.com/uknowsec/Fofa-gui/blob/master/image-20200824134139052.png)
 
 
 
