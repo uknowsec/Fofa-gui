@@ -20,7 +20,7 @@ https://www.t00ls.net/viewthread.php?tid=57096
 
 
 
-> 来着社区，回馈社区。
+> 来自社区，回馈社区。
 
 需要下载的可关注公众号并回复：Fofa，获取下载链接。
 
